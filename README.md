@@ -1,16 +1,5 @@
-# spotifyyy
+# SpotifyLyricsFlutter
+A flutter app that uses APIs to search for any artist in Spotify, returns all their songs and lyrics.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![Screenshot_20250103_024505](https://github.com/user-attachments/assets/42e1f02a-097d-4200-8145-d8e11390fd7f)![Screenshot_20250103_024652](https://github.com/user-attachments/assets/586131ed-0d06-462e-918b-ff06c11bea3a)![Screenshot_20250103_024803](https://github.com/user-attachments/assets/3c2b2672-596a-4e09-835e-ac60b14d1a0c)![Screenshot_20250103_024951](https://github.com/user-attachments/assets/5363f92e-023e-4b8a-98ad-792991a4bdbd)
